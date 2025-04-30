@@ -1,3 +1,10 @@
+Clase 4 - CSS
+
+Replique visual y estructuralmente la noticia.
+Cree un archivo `style.css` para replicar visualmente la noticia con colores, margenes, jerarquía de encabezados, tipografías y layout
+Cambie el nombre de la `noticia.html` por `index.html` para mantener la convencion web
+
+
 Clase 3 - HTML formulario
 Se agregaron elementos avanzados de navegacion y un formulario de suscrupcion en el archivo noticia.html
 
@@ -8,5 +15,5 @@ La noticia original de la cual saque la informacion fue la del siguiente link:
 https://depor.com/mundial-x-depor/lionel-messi-campeon-del-mundo-con-argentina-el-mensaje-de-leo-en-instagram-tras-ganar-el-mundial-qatar-2022-con-la-albiceleste-viral-foto-noticia/
 
 Clase 1 - GIT
-Este repositorio contiene el trabajo práctico de la Clase 1 de la materia.
-Modificacion hecha desde la rama clase1 para práctica de Git.
+Este repositorio contiene el trabajo practico de la Clase 1 de la materia.
+Modificacion hecha desde la rama clase1 para practica de Git.
