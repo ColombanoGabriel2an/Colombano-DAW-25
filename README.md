@@ -1,3 +1,4 @@
+Clase 4 - CSS Replique visual y estructuralmente la noticia. Cree un archivo style.css dentro de un directorio css para replicar visualmente la noticia con colores, margenes, jerarquía de encabezados, tipografías y layout. 
 
 Clase 3 - HTML formulario Se agregaron elementos avanzados de navegacion y un formulario de suscrupcion en el archivo index.html. Cree una carpeta para contener las imagenes de la noticia y las almacene alli
 
