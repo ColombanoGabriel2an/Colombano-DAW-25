@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body.oscuro {
+      background: black;
+    }
+
+    body.claro {
+      background: white;
+    }
+
+    #uaiBtn {
+      padding: 15px 30px;
+      font-size: 20px;
+      border: 2px solid;
+      cursor: pointer;
+    }
+
+    body.oscuro #uaiBtn {
+      background: white;
+      color: black;
+      border-color: black;
+    }
+
+    body.claro #uaiBtn {
+      background: black;
+      color: white;
+      border-color: white;
+    }
+  </style>
+</head>
+<body class="oscuro">
+  <button id="uaiBtn">UAI</button>
+
+  <script>
+    let esOscuro = true;
+    const btn = document.getElementById('uaiBtn');
+    const body = document.body;
+
+    btn.addEventListener('click', () => {
+      body.classList.remove(esOscuro ? 'oscuro' : 'claro');
+      esOscuro = !esOscuro;
+      body.classList.add(esOscuro ? 'oscuro' : 'claro');
+    });
+  </script>
+</body>
+</html>
