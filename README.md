@@ -1,3 +1,5 @@
+Clase 12 - API Rick and Morty Creé una página web que realiza llamados a la API pública de Rick and Morty. Incluí un botón para obtener todos los personajes y campos de búsqueda para filtrar por nombre, estado, especie, tipo y género. Mostré los resultados en tarjetas con imagen y datos básicos. Manejé errores si la búsqueda no arrojaba resultados o si fallaba la conexión. Utilicé JavaScript y Fetch API. La entrega se encuentra completa en el repositorio independiente: https://github.com/ColombanoGabriel2an/Colombano-API-RickAndMorty
+
 
 Clase 11 - JavaScript avanzado con envío al servidor. En esta clase se actualizaron los archivos del formulario de suscripción incorporando validación completa, envío de datos a través de método GET con fetch, uso de LocalStorage para guardar la respuesta y autocompletado al recargar, y un modal que muestra el resultado del envío. Se creó una carpeta clase11 donde se guarda esta versión actualizada del trabajo. La versión visible desde GitHub Pages corresponde a esta entrega. Esta clase se desarrolló en el repositorio separado llamado Colombano-Flexbox.
 
